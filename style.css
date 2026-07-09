@@ -5,3 +5,14 @@
     justify-content: center;
 }
 .imagem-logo{width:80px ;}
+
+.main{
+   background-color: black;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: brown;
+
+}
+.imagem-main{
+    width: 370px;
+}
+     
